@@ -6,14 +6,14 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-//        BankAccount a = new BankAccount(123,5000);
-//        a.withdraw(1000);
-//        a.deposit(2000);
-//
-//        System.out.println(a);
+	 write your code here
+        BankAccount a = new BankAccount(123,5000);
+        a.withdraw(1000);
+        a.deposit(2000);
 
-        order();
+        System.out.println(a);
+
+        //order();
 
     }
 
