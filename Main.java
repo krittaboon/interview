@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-	 write your code here
+	// write your code here
         BankAccount a = new BankAccount(123,5000);
         a.withdraw(1000);
         a.deposit(2000);
